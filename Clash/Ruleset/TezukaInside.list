@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,broada.com
 DOMAIN-SUFFIX,uyunsoft.cn
+DOMAIN-SUFFIX,newplat.dev.cn
 DOMAIN-SUFFIX,bookabc.cc
 DOMAIN-SUFFIX,idealinfo.com
 IP-CIDR,152.70.36.0/24,no-resolve
