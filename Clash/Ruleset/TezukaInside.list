@@ -2,8 +2,10 @@
 # 数量：7条
 IP-CIDR,152.70.36.0/24,no-resolve
 IP-CIDR,129.154.202.0/24,no-resolve
-# DOMAIN-SUFFIX,tezuka.cc
-# DOMAIN-SUFFIX,tezuka.top
+# Mine
+DOMAIN-SUFFIX,nql.tezuka.cc
+DOMAIN-SUFFIX,nql.tezuka.top
+DOMAIN-SUFFIX,alist.tezuka.top
 DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,speedtest.cn
