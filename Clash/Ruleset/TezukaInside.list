@@ -10,11 +10,9 @@ DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,dx.doooong.top
+DOMAIN-SUFFIX,shared.oaifree.com
 # Novel
 DOMAIN-SUFFIX,aixiashu.info
 DOMAIN-SUFFIX,fanqianxs.com
 # Workspace Rules
-DOMAIN-SUFFIX,broada.com
-DOMAIN-SUFFIX,uyunsoft.cn
-DOMAIN-SUFFIX,newplat.dev.cn
-DOMAIN-SUFFIX,idealinfo.com
+#DOMAIN-SUFFIX,broada.com
