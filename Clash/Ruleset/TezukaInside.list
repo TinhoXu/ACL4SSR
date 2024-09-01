@@ -6,13 +6,14 @@ IP-CIDR,129.154.202.0/24,no-resolve
 DOMAIN-SUFFIX,nql.tezuka.cc
 DOMAIN-SUFFIX,nql.tezuka.top
 DOMAIN-SUFFIX,alist.tezuka.top
+# Custom
 DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,dx.doooong.top
 DOMAIN-SUFFIX,shared.oaifree.com
+DOMAIN-SUFFIX,52qn.top
 # Novel
 DOMAIN-SUFFIX,aixiashu.info
 DOMAIN-SUFFIX,fanqianxs.com
 # Workspace Rules
-#DOMAIN-SUFFIX,broada.com
