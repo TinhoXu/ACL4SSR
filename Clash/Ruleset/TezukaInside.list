@@ -4,8 +4,11 @@ IP-CIDR,152.70.36.0/24,no-resolve
 IP-CIDR,129.154.202.0/24,no-resolve
 # Mine
 DOMAIN-SUFFIX,nql.tezuka.cc
+DOMAIN-SUFFIX,oql.tezuka.cc
+DOMAIN-SUFFIX,r4s.tezuka.cc
 DOMAIN-SUFFIX,nql.tezuka.top
-DOMAIN-SUFFIX,alist.tezuka.top
+DOMAIN-SUFFIX,oql.tezuka.top
+DOMAIN-SUFFIX,r4s.tezuka.top
 # Custom
 DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,speedtest.net
