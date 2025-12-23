@@ -1,8 +1,4 @@
 # 内容：Tezuka Outside
-# 数量：4条
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,api.openai.com
-DOMAIN-SUFFIX,chat.openai.com
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,i7391.com
+# 数量：2条
 DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,i7391.com
