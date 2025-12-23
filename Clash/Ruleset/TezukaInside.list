@@ -13,13 +13,13 @@ DOMAIN-SUFFIX,appstorrent.ru
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,dx.doooong.top
-DOMAIN-SUFFIX,shared.oaifree.com
-DOMAIN-SUFFIX,mvnrepository.com
-DOMAIN-SUFFIX,weihudashi.com
-DOMAIN-SUFFIX,zhiweicloud.com
-DOMAIN-SUFFIX,zhuanbar.com
 
 # Novel
 DOMAIN-SUFFIX,aixiashu.info
 DOMAIN-SUFFIX,fanqianxs.com
+
 # Workspace Rules
+DOMAIN-SUFFIX,mvnrepository.com
+DOMAIN-SUFFIX,weihudashi.com
+DOMAIN-SUFFIX,zhiweicloud.com
+DOMAIN-SUFFIX,zhuanbar.com
