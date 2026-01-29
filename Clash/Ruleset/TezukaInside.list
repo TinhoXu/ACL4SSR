@@ -6,13 +6,6 @@ IP-CIDR,129.154.202.0/24,no-resolve
 # Mine
 DOMAIN-SUFFIX,tezuka.cc
 
-# Custom
-DOMAIN-SUFFIX,appstorrent.ru
-DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,speedtest.cn
-DOMAIN-SUFFIX,dx.doooong.top
-DOMAIN-SUFFIX,ide-soft.com
-
 # Subscribe Convert
 DOMAIN-SUFFIX,api.wcc.best
 DOMAIN-SUFFIX,sub.xeton.dev
@@ -25,8 +18,17 @@ DOMAIN-SUFFIX,aixiashu.info
 DOMAIN-SUFFIX,fanqianxs.com
 
 # Workspace Rules
+DOMAIN-SUFFIX,download.jetbrains.com
+DOMAIN-SUFFIX,download-cdn.jetbrains.com
 DOMAIN-SUFFIX,mvnrepository.com
 DOMAIN-SUFFIX,weihudashi.com
 DOMAIN-SUFFIX,zhiweicloud.com
 DOMAIN-SUFFIX,zhuanbar.com
 DOMAIN-SUFFIX,chengzhile.com
+
+# Custom
+DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtest.cn
+DOMAIN-SUFFIX,dx.doooong.top
+DOMAIN-SUFFIX,ide-soft.com
