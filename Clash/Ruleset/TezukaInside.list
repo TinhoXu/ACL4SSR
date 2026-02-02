@@ -4,7 +4,7 @@ IP-CIDR,152.70.36.0/24,no-resolve
 IP-CIDR,129.154.202.0/24,no-resolve
 
 # Mine
-DOMAIN-SUFFIX,tezuka.cc
+DOMAIN-SUFFIX,r4s.tezuka.cc
 
 # Subscribe Convert
 DOMAIN-SUFFIX,api.wcc.best
