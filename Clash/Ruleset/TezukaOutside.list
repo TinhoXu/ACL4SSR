@@ -3,3 +3,4 @@
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,tezuka.cc
 DOMAIN-SUFFIX,maricopa.edu
+IP-CIDR,129.154.194.160/32,no-resolve
