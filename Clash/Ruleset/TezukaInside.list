@@ -1,7 +1,7 @@
 # 内容：Tezuka Inside
 # 数量：N条
+IP-CIDR,146.56.37.188/32,no-resolve
 IP-CIDR,152.70.36.16/32,no-resolve
-IP-CIDR,132.145.82.157/32,no-resolve
 
 # Mine
 DOMAIN-SUFFIX,r4s.tezuka.cc
