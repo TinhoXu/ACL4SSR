@@ -28,8 +28,8 @@ DOMAIN-SUFFIX,zhuanbar.com
 DOMAIN-SUFFIX,chengzhile.com
 
 # Custom
+#DOMAIN-SUFFIX,speedtest.net
+#DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,appstorrent.ru
-DOMAIN-SUFFIX,speedtest.net
-DOMAIN-SUFFIX,speedtest.cn
-DOMAIN-SUFFIX,dx.doooong.top
 DOMAIN-SUFFIX,ide-soft.com
+DOMAIN-SUFFIX,dx.doooong.top
