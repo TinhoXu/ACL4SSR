@@ -1,5 +1,10 @@
 # 内容：Tezuka Outside
 # 数量：N条
+
+IP-CIDR,146.56.37.188/32,no-resolve
+IP-CIDR,146.56.173.196/32,no-resolve
+IP-CIDR,193.123.230.68/32,no-resolve
+
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,maricopa.edu
 #DOMAIN-SUFFIX,tezuka.cc
