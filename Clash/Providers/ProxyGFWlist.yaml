@@ -63,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,6parker.com
   - DOMAIN-SUFFIX,6parknews.com
   - DOMAIN-SUFFIX,7capture.com
+  - DOMAIN-SUFFIX,7x24hrs.com
   - DOMAIN-SUFFIX,8-d.com
   - DOMAIN-SUFFIX,85cc.us
   - DOMAIN-SUFFIX,881903.com
@@ -803,6 +804,7 @@ payload:
   - DOMAIN-SUFFIX,compileheart.com
   - DOMAIN-SUFFIX,connect.facebook.net
   - DOMAIN-SUFFIX,conoha.jp
+  - DOMAIN-SUFFIX,console.typesafe.ai
   - DOMAIN-SUFFIX,contests.twilio.com
   - DOMAIN-SUFFIX,cool18.com
   - DOMAIN-SUFFIX,coolaler.com
@@ -1361,6 +1363,7 @@ payload:
   - DOMAIN-SUFFIX,g.co
   - DOMAIN-SUFFIX,g0v.social
   - DOMAIN-SUFFIX,g6hentai.com
+  - DOMAIN-SUFFIX,ga.jspm.io
   - DOMAIN-SUFFIX,gab.com
   - DOMAIN-SUFFIX,gabocorp.com
   - DOMAIN-SUFFIX,gagaoolala.com
@@ -2413,7 +2416,9 @@ payload:
   - DOMAIN-SUFFIX,meripet.com
   - DOMAIN-SUFFIX,merit-times.com.tw
   - DOMAIN-SUFFIX,messenger.com
+  - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,metafilter.com
   - DOMAIN-SUFFIX,metamask.io
   - DOMAIN-SUFFIX,metart.com
